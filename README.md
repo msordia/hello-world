@@ -1,4 +1,4 @@
 # hello-world
 hello-world project
-Crator: Martha Sordia
+Creator: Martha Sordia
 Date: Apr/10/2015
